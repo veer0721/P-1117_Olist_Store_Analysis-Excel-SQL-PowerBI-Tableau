@@ -1,0 +1,131 @@
+Olist Store Analysis (Excel | SQL | Power BI | Tableau)
+
+This is an end-to-end sales data analytics project where I analyzed AdventureWorks sales data using Excel, SQL, Power BI, and Tableau to generate meaningful business insights, visualizations, and recommendations.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+I used the following tools and technologies for this complete data analytics project:
+
+- Microsoft Excel (Data cleaning, transformation, Pivot Tables, KPIs, Dashboard)
+- MySQL (Database creation, data loading, SQL analysis)
+- Power BI Desktop (Interactive dashboard creation and visualization)
+- Tableau Public (Data visualization and dashboard)
+- PowerPoint (Business insights, recommendations, and conclusions)
+
+---
+
+# 📊 Microsoft Excel
+(Data Cleaning, Data Transformation, Pivot Tables, Charts, KPIs & Dashboard)
+
+📌 Connected and prepared raw sales datasets using Excel
+
+📌 Performed data cleaning, formatting, and transformation
+
+📌 Created Pivot Tables and charts for Financial report
+
+📌 Analyzed KPIs such as Sales, Payment, Customers, and Orders
+
+📌 Designed an interactive Excel dashboard to present business insights clearly
+
+📌 Used slicers and charts for dynamic filtering and reporting
+
+---
+
+# 📊 MySQL
+(Database Creation, Data Loading, SQL Queries & Analysis)
+
+📌 Converted cleaned datasets into CSV format for SQL processing
+
+📌 Created MySQL database and structured sales tables
+
+📌 Imported CSV files into MySQL using SQL queries
+
+📌 Performed data analysis using SQL queries
+
+📌 Solved business problems related to sales, customers, products, and reviews
+
+📌 Used aggregate functions, joins, grouping, sorting, and filtering for analysis
+
+📌 Prepared structured datasets for Power BI and Tableau visualization
+
+---
+
+# 📊 Power BI Desktop
+(Interactive Dashboard & Business Intelligence)
+
+📌 Connected Power BI with the prepared SQL database
+
+📌 Imported and transformed sales data for reporting
+
+📌 Created interactive dashboards and KPI cards
+
+📌 Designed visualizations for:
+- Order distribution
+- orders by payment type
+- avg. time by category
+- payment vs price
+- average shippiing days
+
+📌 Used slicers, filters, and charts for better user interaction
+
+📌 Developed a professional business intelligence dashboard for decision-making
+
+---
+
+# 📊 Tableau Public
+(Data Visualization & Dashboard)
+
+📌 Imported prepared sales datasets into Tableau
+
+📌 Created visual dashboards for sales and price analysis
+
+📌 Designed charts and interactive visuals for better storytelling
+
+📌 Focused on business-oriented visualization and insights
+
+📌 Built dashboards to understand trends, performance, and customer review
+
+---
+
+# 📊 PowerPoint
+(Business Insights & Recommendations)
+
+📌 Prepared a presentation using screenshots from Excel, Power BI, and Tableau dashboards
+
+📌 Explained key business insights and findings
+
+📌 Provided recommendations based on sales and profit analysis
+
+📌 Included supporting charts, visuals, and SQL query references
+
+📌 Summarized the overall project outcomes and business impact
+
+---
+
+# 📌 Key Business Insights
+
+- Credit Card Dominates Customer Payments
+- Weekday Orders Are Significantly Higher
+- Faster Delivery Leads to Higher Customer Satisfaction
+- São Paulo Customers Show Higher Spending Behavior
+
+
+---
+
+# 📁 Project Files Included
+
+- Excel Files
+- SQL Queries
+- Power BI Dashboard (.pbix)
+- Tableau Dashboard
+- PowerPoint Presentation
+- Dataset Files
+- Dashboard Screenshots
+
+---
+
+## 📌 Note
+
+Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
