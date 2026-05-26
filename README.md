@@ -111,19 +111,25 @@ I used the following tools and technologies for this complete data analytics pro
 - Weekday Orders Are Significantly Higher;
       The majority of purchases occur during weekdays, suggesting customers shop more during regular working days rather than weekends
 
-- Faster Delivery Leads to Higher Customer Satisfaction
+- Faster Delivery Leads to Higher Customer Satisfaction;
       Orders delivered faster receive higher review scores, showing that delivery speed is a key factor influencing customer satisfaction.
-- São Paulo Customers Show Higher Spending Behavior
+- São Paulo Customers Show Higher Spending Behavior;
       Customers from São Paulo have higher average payment values, indicating strong purchasing power and making this region a critical market for revenue generation.
 ---
 
-# 📌 Key Business Insights
+# 📌 Recommendations
+1. Optimize Weekend Promotions
+Launch targeted promotions or flash sales during weekends to balance sales distribution and increase order volume on low-traffic days.
 
-- Credit Card Dominates Customer Payments
-- Weekday Orders Are Significantly Higher
-- Faster Delivery Leads to Higher Customer Satisfaction
-- São Paulo Customers Show Higher Spending Behavior---
+2. Improve Delivery Logistics
+Focus on reducing shipping times by optimizing logistics partnerships, warehouse placement, and last-mile delivery operations to improve customer satisfaction.
 
+3. Expand High-Demand Product Categories
+Increase inventory and marketing efforts for high-performing categories such as electronics, audio products, and pet supplies to maximize revenue opportunities.
+
+4. Target High-Value Markets
+Strengthen marketing campaigns in São Paulo and other high-spending cities through personalized promotions and loyalty programs to retain valuable customers.
+---
 # 📌 Key Business Insights
 
 - Credit Card Dominates Customer Payments
