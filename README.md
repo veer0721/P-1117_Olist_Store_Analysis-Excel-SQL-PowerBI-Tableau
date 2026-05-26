@@ -106,14 +106,14 @@ I used the following tools and technologies for this complete data analytics pro
 
 # 📌 Key Business Insights
 
-- Credit Card Dominates Customer Payments;
+1. Credit Card Dominates Customer Payments;
       Most orders are completed using credit card, indicating customers prefer fast and secure digital payment methods Compared to debit card , vouchers, or boleto.
-- Weekday Orders Are Significantly Higher;
+2. Weekday Orders Are Significantly Higher;
       The majority of purchases occur during weekdays, suggesting customers shop more during regular working days rather than weekends
 
-- Faster Delivery Leads to Higher Customer Satisfaction;
+3. Faster Delivery Leads to Higher Customer Satisfaction;
       Orders delivered faster receive higher review scores, showing that delivery speed is a key factor influencing customer satisfaction.
-- São Paulo Customers Show Higher Spending Behavior;
+4. São Paulo Customers Show Higher Spending Behavior;
       Customers from São Paulo have higher average payment values, indicating strong purchasing power and making this region a critical market for revenue generation.
 ---
 
@@ -130,19 +130,37 @@ Increase inventory and marketing efforts for high-performing categories such as 
 4. Target High-Value Markets
 Strengthen marketing campaigns in São Paulo and other high-spending cities through personalized promotions and loyalty programs to retain valuable customers.
 ---
-# 📌 Key Business Insights
+# 📌 Challenges
 
-- Credit Card Dominates Customer Payments
-- Weekday Orders Are Significantly Higher
-- Faster Delivery Leads to Higher Customer Satisfaction
-- São Paulo Customers Show Higher Spending Behavior---
+1. Data Quality and Missing Values
+Some fields such as delivery dates and product categories contained missing or inconsistent data.
 
-# 📌 Key Business Insights
+2.Complex Data Relationships Across Multiple Tables
+The dataset was spread across multiple tables such as orders, customers, payments, products, and reviews.
 
-- Credit Card Dominates Customer Payments
-- Weekday Orders Are Significantly Higher
-- Faster Delivery Leads to Higher Customer Satisfaction
-- São Paulo Customers Show Higher Spending Behavior
+3. Delivery Time Calculation Issues
+Date fields initially returned incorrect formats when calculating shipping days.
+
+4. Dashboard Visualization and Layout Design
+Choosing the right charts and maintaining a clean layout was challenging.
+
+5. Cross-Tool KPI Consistency
+Ensuring the same results across SQL queries, Excel analysis, and BI dashboards required validation.
+---
+
+# 📌Solutions
+
+1. Cleaned and standardized the dataset using Excel data cleaning techniques and SQL filtering.
+
+2. Used SQL joins and relationships in Power BI/Tableau to correctly connect the datasets.
+
+3. Converted date fields and used calculated columns (DATEDIFF / Excel formulas) to accurately compute delivery time.
+
+4. Applied data aggregation, filtering, and optimized queries in SQL to improve performance.
+
+5. Standardized calculations and validated KPIs across all tools to maintain accuracy.
+
+6. implemented consistent visual design principles in Power BI/Tableau, selecting appropriate charts for KPIs.
 
 ---
 
