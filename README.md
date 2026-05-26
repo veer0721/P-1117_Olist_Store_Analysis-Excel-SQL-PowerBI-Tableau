@@ -106,11 +106,37 @@ I used the following tools and technologies for this complete data analytics pro
 
 # 📌 Key Business Insights
 
+- Credit Card Dominates Customer Payments;
+      Most orders are completed using credit card, indicating customers prefer fast and secure digital payment methods Compared to debit card , vouchers, or boleto.
+- Weekday Orders Are Significantly Higher;
+      The majority of purchases occur during weekdays, suggesting customers shop more during regular working days rather than weekends
+
+- Faster Delivery Leads to Higher Customer Satisfaction
+      Orders delivered faster receive higher review scores, showing that delivery speed is a key factor influencing customer satisfaction.
+- São Paulo Customers Show Higher Spending Behavior
+      Customers from São Paulo have higher average payment values, indicating strong purchasing power and making this region a critical market for revenue generation.
+---
+
+# 📌 Key Business Insights
+
+- Credit Card Dominates Customer Payments
+- Weekday Orders Are Significantly Higher
+- Faster Delivery Leads to Higher Customer Satisfaction
+- São Paulo Customers Show Higher Spending Behavior---
+
+# 📌 Key Business Insights
+
+- Credit Card Dominates Customer Payments
+- Weekday Orders Are Significantly Higher
+- Faster Delivery Leads to Higher Customer Satisfaction
+- São Paulo Customers Show Higher Spending Behavior---
+
+# 📌 Key Business Insights
+
 - Credit Card Dominates Customer Payments
 - Weekday Orders Are Significantly Higher
 - Faster Delivery Leads to Higher Customer Satisfaction
 - São Paulo Customers Show Higher Spending Behavior
-
 
 ---
 
