@@ -106,45 +106,48 @@ I used the following tools and technologies for this complete data analytics pro
 
 # 📌 Key Business Insights
 
-1. Credit Card Dominates Customer Payments;
+1. Credit Card Dominates Customer Payments ; 
       Most orders are completed using credit card, indicating customers prefer fast and secure digital payment methods Compared to debit card , vouchers, or boleto.
-2. Weekday Orders Are Significantly Higher;
+
+2. Weekday Orders Are Significantly Higher ; 
       The majority of purchases occur during weekdays, suggesting customers shop more during regular working days rather than weekends
 
-3. Faster Delivery Leads to Higher Customer Satisfaction;
+3. Faster Delivery Leads to Higher Customer Satisfaction ; 
       Orders delivered faster receive higher review scores, showing that delivery speed is a key factor influencing customer satisfaction.
-4. São Paulo Customers Show Higher Spending Behavior;
+
+4. São Paulo Customers Show Higher Spending Behavior ; 
       Customers from São Paulo have higher average payment values, indicating strong purchasing power and making this region a critical market for revenue generation.
 ---
 
 # 📌 Recommendations
-1. Optimize Weekend Promotions
+
+1. Optimize Weekend Promotions ; 
 Launch targeted promotions or flash sales during weekends to balance sales distribution and increase order volume on low-traffic days.
 
-2. Improve Delivery Logistics
+2. Improve Delivery Logistics ; 
 Focus on reducing shipping times by optimizing logistics partnerships, warehouse placement, and last-mile delivery operations to improve customer satisfaction.
 
-3. Expand High-Demand Product Categories
+3. Expand High-Demand Product Categories ; 
 Increase inventory and marketing efforts for high-performing categories such as electronics, audio products, and pet supplies to maximize revenue opportunities.
 
-4. Target High-Value Markets
+4. Target High-Value Markets ; 
 Strengthen marketing campaigns in São Paulo and other high-spending cities through personalized promotions and loyalty programs to retain valuable customers.
 ---
 # 📌 Challenges
 
-1. Data Quality and Missing Values
+1. Data Quality and Missing Values ; 
 Some fields such as delivery dates and product categories contained missing or inconsistent data.
 
-2.Complex Data Relationships Across Multiple Tables
+2. Complex Data Relationships Across Multiple Tables ; 
 The dataset was spread across multiple tables such as orders, customers, payments, products, and reviews.
 
-3. Delivery Time Calculation Issues
+3. Delivery Time Calculation Issues ; 
 Date fields initially returned incorrect formats when calculating shipping days.
 
-4. Dashboard Visualization and Layout Design
+4. Dashboard Visualization and Layout Design ; 
 Choosing the right charts and maintaining a clean layout was challenging.
 
-5. Cross-Tool KPI Consistency
+5. Cross-Tool KPI Consistency ; 
 Ensuring the same results across SQL queries, Excel analysis, and BI dashboards required validation.
 ---
 
